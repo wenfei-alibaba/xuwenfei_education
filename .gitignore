@@ -1,0 +1,18 @@
+# Project exclude paths
+/test-fastdfs/target/
+/test-freemarker/target/
+/xc-framework-model/target/
+/xc-govern-center/target/
+/xc-govern-gateway/target/
+/xc-service-api/target/
+/xc-service-base-filesystem/target/
+/xc-service-learning/target/
+/xc-service-manage-cms/target/
+/xc-service-manage-cms-client/target/
+/xc-service-manage-course/target/
+/xc-service-manage-media/target/
+/xc-service-manage-media-processor/target/
+/xc-service-manage-order/target/
+/xc-service-search/target/
+/xc-service-ucenter/target/
+/xc-service-ucenter-auth/target/
